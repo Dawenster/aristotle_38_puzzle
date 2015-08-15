@@ -60,6 +60,7 @@ def all_equals_38(na)
 end
 
 # After Gaussian Elimination
+# Got some help from this guy: http://hwiechers.blogspot.ca/2013/03/solving-artitotles-number-puzzle.html
 
 # a = 76 - j - k - n - 2o - p - r - s
 # b = j + n + o
